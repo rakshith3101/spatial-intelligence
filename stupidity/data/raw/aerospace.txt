@@ -1,0 +1,20 @@
+Aerospace engineering applies principles of physics to design aircraft and spacecraft.
+Aerodynamic design reduces drag and increases fuel efficiency in flight.
+Rocket propulsion relies on Newton's third law of motion.
+Structural materials in aircraft must balance strength with minimal weight.
+Combustion in jet engines generates thrust through controlled temperature and pressure.
+Satellite orbits are maintained by gravitational balance and velocity.
+Wind tunnels test aerodynamic designs before physical construction.
+Control systems manage aircraft stability through continuous feedback loops.
+Thermal management protects spacecraft from extreme temperature variations in space.
+Navigation systems use triangulation from celestial bodies and ground stations.
+Autonomous systems allow aircraft to respond to changing environmental conditions.
+Materials science develops alloys that withstand extreme stress and temperature.
+Fluid dynamics governs air flow around wings and fuselage.
+Spacecraft reentry requires precise calculations to survive atmospheric friction.
+Guidance systems use algorithms to adjust trajectory during flight.
+Human factors engineering ensures pilot controls are intuitive and safe.
+Power systems in aircraft convert fuel or electricity into mechanical energy.
+Communication systems maintain reliable contact across vast distances.
+Stress analysis predicts how structures respond to forces during operation.
+Telemetry systems collect and transmit data about vehicle performance.

@@ -1,0 +1,948 @@
+[
+  {
+    "id": "g1",
+    "path": [
+      "w219",
+      "w217",
+      "w219",
+      "w210"
+    ],
+    "generated_text": "Rotating may connect station and begun through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g2",
+    "path": [
+      "w51",
+      "w54",
+      "w59",
+      "w42"
+    ],
+    "generated_text": "Exploration may connect learn and message through a shared latent pattern.",
+    "score": 0.5875
+  },
+  {
+    "id": "g3",
+    "path": [
+      "w64",
+      "w47",
+      "w53",
+      "w54"
+    ],
+    "generated_text": "Propulsion may connect in-space and technologies through a shared latent pattern.",
+    "score": 0.5875
+  },
+  {
+    "id": "g4",
+    "path": [
+      "w234",
+      "w227",
+      "w228",
+      "w225"
+    ],
+    "generated_text": "Network may connect coordinates and california through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g5",
+    "path": [
+      "w12",
+      "w3",
+      "w76",
+      "w3"
+    ],
+    "generated_text": "Exploration may connect astronomy and history through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g6",
+    "path": [
+      "w183",
+      "w7",
+      "w148",
+      "w220"
+    ],
+    "generated_text": "Human may connect launch and orbit through a shared latent pattern.",
+    "score": 0.6625
+  },
+  {
+    "id": "g7",
+    "path": [
+      "w105",
+      "w104",
+      "w102",
+      "w104"
+    ],
+    "generated_text": "Displaystyle may connect delta and absence through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g8",
+    "path": [
+      "w191",
+      "w190",
+      "g1",
+      "w232"
+    ],
+    "generated_text": "The image above contains clickable links\nSize comparisons between current and past space stations as they appeared most recently may imply a broader hidden relationship.",
+    "score": 0.6937
+  },
+  {
+    "id": "g9",
+    "path": [
+      "w31",
+      "w32",
+      "w33",
+      "w30"
+    ],
+    "generated_text": "Spacecraft may connect recoverable and reusable through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g10",
+    "path": [
+      "w374",
+      "w129",
+      "w117",
+      "w71"
+    ],
+    "generated_text": "Speed may connect astronomical and change through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g11",
+    "path": [
+      "w317",
+      "w354",
+      "w311",
+      "w66"
+    ],
+    "generated_text": "Orbital may connect maneuvers and reaction through a shared latent pattern.",
+    "score": 0.5938
+  },
+  {
+    "id": "g12",
+    "path": [
+      "w23",
+      "w269",
+      "w23",
+      "w24"
+    ],
+    "generated_text": "Vehicle may connect cannot and carrier through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g13",
+    "path": [
+      "w185",
+      "w430",
+      "w279",
+      "w34"
+    ],
+    "generated_text": "Nations may connect states and achieved through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g14",
+    "path": [
+      "w276",
+      "w277",
+      "w33",
+      "w278"
+    ],
+    "generated_text": "Spacecraft may connect reusable and agencies through a shared latent pattern.",
+    "score": 0.5938
+  },
+  {
+    "id": "g15",
+    "path": [
+      "w44",
+      "w287",
+      "w42",
+      "w287"
+    ],
+    "generated_text": "Learn may connect message and remove through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g16",
+    "path": [
+      "w10",
+      "w180",
+      "w255",
+      "w425"
+    ],
+    "generated_text": "Private may connect capsules and companies through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g17",
+    "path": [
+      "w299",
+      "w293",
+      "w54",
+      "w299"
+    ],
+    "generated_text": "Propulsion may connect anytime and anywhere through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g18",
+    "path": [
+      "w67",
+      "w312",
+      "w357",
+      "w334"
+    ],
+    "generated_text": "English may connect history and sidebar through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g19",
+    "path": [
+      "w427",
+      "w182",
+      "w183",
+      "w428"
+    ],
+    "generated_text": "Launch may connect astronauts and commercial through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g20",
+    "path": [
+      "w372",
+      "w126",
+      "w125",
+      "w371"
+    ],
+    "generated_text": "Planet may connect probe and assist through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g21",
+    "path": [
+      "w162",
+      "w407",
+      "w162",
+      "w407"
+    ],
+    "generated_text": "Detected may connect interstellar and persistent through a shared latent pattern.",
+    "score": 0.5875
+  },
+  {
+    "id": "g22",
+    "path": [
+      "w217",
+      "w464",
+      "w219",
+      "w217"
+    ],
+    "generated_text": "Begun may connect century and conducted through a shared latent pattern.",
+    "score": 0.545
+  },
+  {
+    "id": "g23",
+    "path": [
+      "w15",
+      "w260",
+      "w223",
+      "w260"
+    ],
+    "generated_text": "Disambiguation may connect orbital and orbiter through a shared latent pattern.",
+    "score": 0.6625
+  },
+  {
+    "id": "g24",
+    "path": [
+      "w242",
+      "w487",
+      "w242",
+      "w487"
+    ],
+    "generated_text": "Control may connect monitor and network through a shared latent pattern.",
+    "score": 0.6625
+  },
+  {
+    "id": "g25",
+    "path": [
+      "w21",
+      "w168",
+      "w2",
+      "w21"
+    ],
+    "generated_text": "Spaceflight may connect spacecraft and launch through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g26",
+    "path": [
+      "w57",
+      "w18",
+      "w263",
+      "w359"
+    ],
+    "generated_text": "Adding may connect article and citations through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g27",
+    "path": [
+      "w386",
+      "w28",
+      "w195",
+      "w28"
+    ],
+    "generated_text": "Artificial may connect around and orbit through a shared latent pattern.",
+    "score": 0.5667
+  },
+  {
+    "id": "g28",
+    "path": [
+      "w286",
+      "w19",
+      "w286",
+      "w41"
+    ],
+    "generated_text": "Material may connect unsourced and poorly through a shared latent pattern.",
+    "score": 0.6625
+  },
+  {
+    "id": "g29",
+    "path": [
+      "w61",
+      "w54",
+      "g3",
+      "g9"
+    ],
+    "generated_text": "Propulsion may connect technologies and mission through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g30",
+    "path": [
+      "w230",
+      "w225",
+      "w244",
+      "w243"
+    ],
+    "generated_text": "Canberra may connect madrid and network through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g31",
+    "path": [
+      "w210",
+      "w218",
+      "w463",
+      "w218"
+    ],
+    "generated_text": "Rotating may connect station and braun through a shared latent pattern.",
+    "score": 0.545
+  },
+  {
+    "id": "g32",
+    "path": [
+      "w166",
+      "w411",
+      "w156",
+      "w154"
+    ],
+    "generated_text": "Approach may connect closest-ever and completes through a shared latent pattern.",
+    "score": 0.6088
+  },
+  {
+    "id": "g33",
+    "path": [
+      "w146",
+      "w158",
+      "w403",
+      "w407"
+    ],
+    "generated_text": "Cassini may connect analyzer and cosmic through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g34",
+    "path": [
+      "w277",
+      "w32",
+      "g9",
+      "g14"
+    ],
+    "generated_text": "Reusable may connect spacecraft and recoverable through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g35",
+    "path": [
+      "g30",
+      "g25",
+      "g12",
+      "g17"
+    ],
+    "generated_text": "Anytime may connect anywhere and canberra through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g36",
+    "path": [
+      "g6",
+      "g4",
+      "g7",
+      "g11"
+    ],
+    "generated_text": "Absence may connect california and coordinates through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g37",
+    "path": [
+      "w299",
+      "w296",
+      "w299",
+      "w293"
+    ],
+    "generated_text": "Propulsion may connect anytime and anywhere through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g38",
+    "path": [
+      "w394",
+      "w137",
+      "w390",
+      "w145"
+    ],
+    "generated_text": "Later may connect probes and entered through a shared latent pattern.",
+    "score": 0.5273
+  },
+  {
+    "id": "g39",
+    "path": [
+      "w14",
+      "w259",
+      "w433",
+      "w132"
+    ],
+    "generated_text": "Bahasa may connect english and history through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g40",
+    "path": [
+      "w118",
+      "w364",
+      "w119",
+      "w121"
+    ],
+    "generated_text": "Assist may connect spacecraft and gravitating through a shared latent pattern.",
+    "score": 0.5938
+  },
+  {
+    "id": "g41",
+    "path": [
+      "w192",
+      "w437",
+      "w192",
+      "w437"
+    ],
+    "generated_text": "Panels may connect radiators and solar through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g42",
+    "path": [
+      "w220",
+      "w173",
+      "w419",
+      "w173"
+    ],
+    "generated_text": "Soviet may connect human and vostok through a shared latent pattern.",
+    "score": 0.5667
+  },
+  {
+    "id": "g43",
+    "path": [
+      "w298",
+      "w55",
+      "w300",
+      "w55"
+    ],
+    "generated_text": "Technologies may connect missions and propulsion through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g44",
+    "path": [
+      "w104",
+      "w349",
+      "w106",
+      "w351"
+    ],
+    "generated_text": "Acceleration may connect displaystyle and absence through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g45",
+    "path": [
+      "w444",
+      "w7",
+      "w418",
+      "w252"
+    ],
+    "generated_text": "Soviet may connect gagarin and human through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g46",
+    "path": [
+      "w418",
+      "w173",
+      "w432",
+      "w187"
+    ],
+    "generated_text": "Cosmonaut may connect human and launched through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g47",
+    "path": [
+      "g20",
+      "g9",
+      "g15",
+      "g9"
+    ],
+    "generated_text": "Recoverable may connect reusable and spacecraft through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g48",
+    "path": [
+      "w178",
+      "w177",
+      "w178",
+      "w422"
+    ],
+    "generated_text": "Artemis may connect lunar and beyond through a shared latent pattern.",
+    "score": 0.5273
+  },
+  {
+    "id": "g49",
+    "path": [
+      "w194",
+      "w439",
+      "w441",
+      "w194"
+    ],
+    "generated_text": "Station may connect extended and hosts through a shared latent pattern.",
+    "score": 0.5667
+  },
+  {
+    "id": "g50",
+    "path": [
+      "w28",
+      "w386",
+      "w28",
+      "w134"
+    ],
+    "generated_text": "Orbit may connect around and artificial through a shared latent pattern.",
+    "score": 0.5667
+  },
+  {
+    "id": "g51",
+    "path": [
+      "w466",
+      "w208",
+      "w453",
+      "w466"
+    ],
+    "generated_text": "Concepts may connect station and anything through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g52",
+    "path": [
+      "g30",
+      "g24",
+      "w487",
+      "w242"
+    ],
+    "generated_text": "Network may connect control and monitor through a shared latent pattern.",
+    "score": 0.6625
+  },
+  {
+    "id": "g53",
+    "path": [
+      "w210",
+      "w218",
+      "w460",
+      "w215"
+    ],
+    "generated_text": "Rotating may connect station and problem through a shared latent pattern.",
+    "score": 0.5273
+  },
+  {
+    "id": "g54",
+    "path": [
+      "w453",
+      "w208",
+      "w453",
+      "w466"
+    ],
+    "generated_text": "Concepts may connect station and anything through a shared latent pattern.",
+    "score": 0.545
+  },
+  {
+    "id": "g55",
+    "path": [
+      "w59",
+      "w42",
+      "w289",
+      "w42"
+    ],
+    "generated_text": "Learn may connect message and remove through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g56",
+    "path": [
+      "w292",
+      "w47",
+      "w268",
+      "w23"
+    ],
+    "generated_text": "Launch may connect propulsion and atmospheric through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g57",
+    "path": [
+      "w40",
+      "w285",
+      "w114",
+      "w359"
+    ],
+    "generated_text": "Please may connect adding and article through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g58",
+    "path": [
+      "w158",
+      "w403",
+      "w158",
+      "w146"
+    ],
+    "generated_text": "Cassini may connect analyzer and cosmic through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g59",
+    "path": [
+      "w358",
+      "w113",
+      "w580",
+      "w17"
+    ],
+    "generated_text": "Additional may connect article and citations through a shared latent pattern.",
+    "score": 0.6088
+  },
+  {
+    "id": "g60",
+    "path": [
+      "w416",
+      "w661",
+      "w171",
+      "w425"
+    ],
+    "generated_text": "Spaceflight may connect american and astronauts through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g61",
+    "path": [
+      "g17",
+      "g31",
+      "g37",
+      "g29"
+    ],
+    "generated_text": "Propulsion may connect anytime and anywhere through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g62",
+    "path": [
+      "w139",
+      "w629",
+      "w139",
+      "w629"
+    ],
+    "generated_text": "Celestial may connect entering and flyby through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g63",
+    "path": [
+      "w729",
+      "w239",
+      "w729",
+      "w484"
+    ],
+    "generated_text": "Baseline may connect interferometry and observations through a shared latent pattern.",
+    "score": 0.6625
+  },
+  {
+    "id": "g64",
+    "path": [
+      "w212",
+      "w702",
+      "w457",
+      "w702"
+    ],
+    "generated_text": "Aufzugschacht may connect elevator and shaft through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g65",
+    "path": [
+      "w611",
+      "w121",
+      "w119",
+      "w609"
+    ],
+    "generated_text": "Assist may connect probes and flybys through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g66",
+    "path": [
+      "w521",
+      "w31",
+      "w521",
+      "w276"
+    ],
+    "generated_text": "Capsules may connect method and non-winged through a shared latent pattern.",
+    "score": 0.5667
+  },
+  {
+    "id": "g67",
+    "path": [
+      "w382",
+      "w627",
+      "w137",
+      "w636"
+    ],
+    "generated_text": "Saturn may connect bodies and expanded through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g68",
+    "path": [
+      "w192",
+      "w682",
+      "w437",
+      "w192"
+    ],
+    "generated_text": "Panels may connect radiators and solar through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g69",
+    "path": [
+      "w21",
+      "w492",
+      "w266",
+      "w247"
+    ],
+    "generated_text": "Spaceflight may connect spacecraft and launch through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g70",
+    "path": [
+      "w630",
+      "w140",
+      "w630",
+      "w85"
+    ],
+    "generated_text": "Orbit may connect around and enters through a shared latent pattern.",
+    "score": 0.5848
+  },
+  {
+    "id": "g71",
+    "path": [
+      "w35",
+      "w525",
+      "w255",
+      "w525"
+    ],
+    "generated_text": "Private may connect addition and companies through a shared latent pattern.",
+    "score": 0.5938
+  },
+  {
+    "id": "g72",
+    "path": [
+      "w595",
+      "w347",
+      "w100",
+      "w345"
+    ],
+    "generated_text": "Constant may connect delta and delta- through a shared latent pattern.",
+    "score": 0.5938
+  },
+  {
+    "id": "g73",
+    "path": [
+      "w534",
+      "w289",
+      "w42",
+      "w287"
+    ],
+    "generated_text": "Learn may connect message and remove through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g74",
+    "path": [
+      "w181",
+      "w249",
+      "w4",
+      "w59"
+    ],
+    "generated_text": "Research may connect advancing and advantages through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g75",
+    "path": [
+      "w625",
+      "w380",
+      "w135",
+      "w380"
+    ],
+    "generated_text": "Developed may connect during and history through a shared latent pattern.",
+    "score": 0.6088
+  },
+  {
+    "id": "g76",
+    "path": [
+      "w179",
+      "w524",
+      "w279",
+      "w430"
+    ],
+    "generated_text": "States may connect china and nations through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g77",
+    "path": [
+      "w46",
+      "w536",
+      "w310",
+      "w63"
+    ],
+    "generated_text": "Spacecraft may connect engines and propulsion through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g78",
+    "path": [
+      "g32",
+      "g38",
+      "g2",
+      "g18"
+    ],
+    "generated_text": "Approach may connect closest-ever and completes through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g79",
+    "path": [
+      "w720",
+      "w475",
+      "w230",
+      "w719"
+    ],
+    "generated_text": "Canberra may connect madrid and complex through a shared latent pattern.",
+    "score": 0.5125
+  },
+  {
+    "id": "g80",
+    "path": [
+      "w146",
+      "w391",
+      "w146",
+      "w137"
+    ],
+    "generated_text": "Huygens may connect saturn and became through a shared latent pattern.",
+    "score": 0.545
+  },
+  {
+    "id": "g81",
+    "path": [
+      "w656",
+      "w166",
+      "w656",
+      "w166"
+    ],
+    "generated_text": "Approach may connect closest-ever and completes through a shared latent pattern.",
+    "score": 0.6088
+  },
+  {
+    "id": "g82",
+    "path": [
+      "w464",
+      "w707",
+      "w462",
+      "w217"
+    ],
+    "generated_text": "Conducted may connect further and research through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g83",
+    "path": [
+      "w585",
+      "w340",
+      "w97",
+      "w587"
+    ],
+    "generated_text": "Spacecraft may connect change and velocity through a shared latent pattern.",
+    "score": 0.5667
+  },
+  {
+    "id": "g84",
+    "path": [
+      "w451",
+      "w696",
+      "w206",
+      "w450"
+    ],
+    "generated_text": "Docking may connect ports and allow through a shared latent pattern.",
+    "score": 0.5273
+  },
+  {
+    "id": "g85",
+    "path": [
+      "w142",
+      "w378",
+      "w392",
+      "w274"
+    ],
+    "generated_text": "Probes may connect interstellar and solar through a shared latent pattern.",
+    "score": 0.7812
+  },
+  {
+    "id": "g86",
+    "path": [
+      "w443",
+      "w198",
+      "w172",
+      "w201"
+    ],
+    "generated_text": "Presence may connect continuous and humans through a shared latent pattern.",
+    "score": 0.5848
+  }
+]

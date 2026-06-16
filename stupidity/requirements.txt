@@ -1,0 +1,9 @@
+sentence-transformers
+networkx
+numpy
+scikit-learn
+transformers
+torch
+requests
+beautifulsoup4
+matplotlib
