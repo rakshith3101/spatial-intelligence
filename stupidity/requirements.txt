@@ -7,3 +7,4 @@ torch
 requests
 beautifulsoup4
 matplotlib
+pygame
