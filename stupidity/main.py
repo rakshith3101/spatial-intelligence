@@ -2,12 +2,12 @@ from __future__ import annotations
 
 import argparse
 
-from src.embed import generate_embeddings
-from src.graph_builder import build_graph, save_graph
-from src.ingest import create_nodes, load_text, save_nodes, split_sentences
-from src.loop import run_loop
-from src.utils import ensure_data_dirs
-from src.visualizer import generate_report
+from canopy_detection.src.embed import generate_embeddings
+from canopy_detection.src.graph_builder import build_graph, save_graph
+from canopy_detection.src.ingest import create_nodes, load_text, save_nodes, split_sentences
+from canopy_detection.src.loop import run_loop
+from canopy_detection.src.utils import ensure_data_dirs
+from canopy_detection.src.visualizer import generate_report
 
 
 def main() -> None:

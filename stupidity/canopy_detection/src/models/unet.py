@@ -55,6 +55,7 @@ class UNet(nn.Module):
         self.up1 = Up(base_filters * 16, base_filters * 4)
         self.up2 = Up(base_filters * 8, base_filters * 2)
         self.up3 = Up(base_filters * 4, base_filters)
+        self.up4 = Up(base_filters * 2, base_filters)
         self.outc = nn.Conv2d(base_filters, out_channels, 1)
 
     def forward(self, x):
@@ -67,6 +68,7 @@ class UNet(nn.Module):
         x = self.up1(x5, x4)
         x = self.up2(x, x3)
         x = self.up3(x, x2)
+        x = self.up4(x, x1)
         out = self.outc(x)
         return out
 

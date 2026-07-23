@@ -1,9 +1,11 @@
 import argparse
+from pathlib import Path
+
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
-from src.dataset import CHMDataset
-from src.models.unet import UNet
+from canopy_detection.src.dataset import CHMDataset, CHMTileFolderDataset
+from canopy_detection.src.models.unet import UNet
 
 
 def masked_l1(pred, target, mask):
@@ -16,7 +18,11 @@ def masked_l1(pred, target, mask):
 
 
 def train(npz_path: str, epochs: int = 5, lr: float = 1e-3, device: str = 'cpu'):
-    ds = CHMDataset(npz_path)
+    data_path = Path(npz_path)
+    if data_path.is_dir():
+        ds = CHMTileFolderDataset(npz_path)
+    else:
+        ds = CHMDataset(npz_path)
     dl = DataLoader(ds, batch_size=1, shuffle=True)
 
     model = UNet(in_channels=3, out_channels=1, base_filters=16).to(device)
@@ -47,7 +53,7 @@ def train(npz_path: str, epochs: int = 5, lr: float = 1e-3, device: str = 'cpu')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data', default='data/demo_chm.npz')
+    parser.add_argument('--data', default='data/demo_chm.npz', help='Path to a single .npz tile or a directory of .npz tiles')
     parser.add_argument('--epochs', type=int, default=5)
     parser.add_argument('--lr', type=float, default=1e-3)
     parser.add_argument('--device', default='cpu')

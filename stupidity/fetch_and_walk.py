@@ -6,15 +6,15 @@ from pathlib import Path
 
 import networkx as nx
 
-from src.embed import generate_embeddings
-from src.fetcher import extract_sentences, fetch_and_extract
-from src.graph_builder import build_graph, connect_similar_nodes, extract_edges, save_graph
-from src.ingest import create_nodes
-from src.loop import run_loop
-from src.mutator import generate_hypothesis, score_hypothesis
-from src.utils import PROCESSED_DIR, ensure_data_dirs, next_id, read_json, write_json
-from src.visualizer import generate_report
-from src.walker import random_walk
+from canopy_detection.src.embed import generate_embeddings
+from canopy_detection.src.fetcher import extract_sentences, fetch_and_extract
+from canopy_detection.src.graph_builder import build_graph, connect_similar_nodes, extract_edges, save_graph
+from canopy_detection.src.ingest import create_nodes
+from canopy_detection.src.loop import run_loop
+from canopy_detection.src.mutator import generate_hypothesis, score_hypothesis
+from canopy_detection.src.utils import PROCESSED_DIR, ensure_data_dirs, next_id, read_json, write_json
+from canopy_detection.src.visualizer import generate_report
+from canopy_detection.src.walker import random_walk
 
 
 def fetch_url_content(url: str, source_name: str | None = None) -> list[dict] | None:

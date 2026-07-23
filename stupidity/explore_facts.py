@@ -6,12 +6,12 @@ from pathlib import Path
 
 import networkx as nx
 
-from src.embed import generate_embeddings
-from src.graph_builder import build_graph, save_graph
-from src.ingest import create_nodes_from_sources, load_multiple_texts
-from src.loop import run_loop
-from src.utils import PROCESSED_DIR, ensure_data_dirs, write_json
-from src.visualizer import generate_report
+from canopy_detection.src.embed import generate_embeddings
+from canopy_detection.src.graph_builder import build_graph, save_graph
+from canopy_detection.src.ingest import create_nodes_from_sources, load_multiple_texts
+from canopy_detection.src.loop import run_loop
+from canopy_detection.src.utils import PROCESSED_DIR, ensure_data_dirs, write_json
+from canopy_detection.src.visualizer import generate_report
 
 
 def main() -> None:
